@@ -2,9 +2,8 @@
 
 You can find here all my materials (scripts, data...) used to generate maps for the 2022 #30DayMapChallenge
 
-Example: visualize the course of the very first (modern) marathon in Athens, 1896
 
-![marathon](marathon_1896.png)
+![challenge](challenge2022.png)
 
 ## Authors
 
